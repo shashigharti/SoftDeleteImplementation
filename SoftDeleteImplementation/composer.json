@@ -1,0 +1,8 @@
+{"require": {
+		"doctrine/orm": "*",
+		"doctrine/migrations": "dev-master",
+		"symfony/yaml": "2.*",
+        "doctrine/doctrine-migrations-bundle": "dev-master",
+        "doctrine/mongodb-odm-softdelete-bundle": "dev-master"
+		}
+}
